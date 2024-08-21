@@ -58,7 +58,7 @@ a {
 }
 .inline-list li {
   display: inline;
-  margin: 0 8px;
+  margin: 0 0;
   font-size: 32px;
 }
 .inline-list {
